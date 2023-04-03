@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Chorwacji",
+    "short_name": "Chorwacja APP",
+    "theme_color": "#21f3e6",
+    "background_color": "#21f3e6",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA_projekt/index.html",
+    "icons": [
+        {
+            "src": ".img/3944517_croatia_national_world_icon.png",
+            "sizes": "512x512",
+            "type": "image.png"
+        }
+    ]
+}
