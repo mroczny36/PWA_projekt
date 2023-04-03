@@ -9,7 +9,7 @@
     "start_url": "/PWA_projekt/index.html",
     "icons": [
         {
-            "src": ".img/3944517_croatia_national_world_icon.png",
+            "src": ".img/icona.png",
             "sizes": "512x512",
             "type": "image.png"
         }
